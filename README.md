@@ -14,7 +14,7 @@ Python
 
 # Dataset Used
 
-https://raw.githubusercontent.com/sanatMahajan/DSlabDataset/main/modified_globalterrorismdb_0718dist.csv
+https://raw.githubusercontent.com/sanatMahajan/DSlabDataset/main/modified_globalterrorismdb_0718dist.csv <br />
 Found a csv file on kaggle on Global terrorism which I downloaded and modified according to my needs and uploaded to my github.
 
 # Components Used in Dashboard
